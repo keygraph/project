@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Dummy model",
+    "owner": "me",
+    "description": "just a test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "me"
+  }
+}
